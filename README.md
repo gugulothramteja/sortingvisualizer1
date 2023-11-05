@@ -13,7 +13,7 @@ Blue - Comparison
 Green - Element is in sorted position
 
 
-It compares the time taken by the different algorithm for sorting the array.
+
 
 # technologies used
 
